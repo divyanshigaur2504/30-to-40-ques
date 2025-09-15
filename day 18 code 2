@@ -6,11 +6,11 @@
 int main() {
     int num1, num2;
 
-    // Input the two numbers
+
     printf("Enter two numbers: ");
     scanf("%d %d", &num1, &num2);
 
-    // Calculate and print the HCF
+
     printf("The HCF (GCD) of %d and %d is: %d\n", num1, num2);
 
     return 0;
